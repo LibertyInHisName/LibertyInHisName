@@ -4,6 +4,7 @@
 
 Technical Skills 💻
 I consider myself to be pretty good at the following technologies.
+
 [![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
 
