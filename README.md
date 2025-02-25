@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B70F7&width=435&lines=print(%22Hi+i'm+Murphy+Locke%22);echo+%22Systems+Engineer%22;std%3A%3Aout+%22I+love+tech!%22)](https://git.io/typing-svg)
+
+
 [![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
 
